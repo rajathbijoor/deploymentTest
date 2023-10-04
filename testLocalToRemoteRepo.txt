@@ -1,0 +1,10 @@
+Testing file transfer from local repo to remote repo in github
+(git push origin master)
+master bacause in the local path the files are stored in master branch
+when "git branch" command is executed it gives you the branch where the file exists
+
+
+if "git branch" returned main
+then the command is as follows
+
+git push origin main
